@@ -95,7 +95,7 @@
     {
       "name": "The Cursed",
       "version": "v0.2.7",
-      "source": null,
+      "source": "github:jhp109/TheCursedMod2",
       "hash": "a2e5008c6c00476c67b4c71682adca336343b3056918caa4f0a6a76d57df90ce",
       "files": [
         "TheCursedMod\\TheCursedMod.dll",
@@ -153,5 +153,5 @@
     }
   ],
   "created_at": "2026-05-13T13:19:34.791273400Z",
-  "updated_at": "2026-05-13T14:36:30.971506800Z"
+  "updated_at": "2026-05-13T14:51:56.285848100Z"
 }
