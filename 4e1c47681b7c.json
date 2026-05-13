@@ -1,7 +1,7 @@
 {
   "name": "Woop",
   "game_version": null,
-  "created_by": "sts2-mod-manager",
+  "created_by": "TheKaizerWIthin",
   "mods": [
     {
       "name": "BaseLib",
@@ -153,5 +153,5 @@
     }
   ],
   "created_at": "2026-05-13T13:19:34.791273400Z",
-  "updated_at": "2026-05-13T13:56:29.513781800Z"
+  "updated_at": "2026-05-13T14:36:30.971506800Z"
 }
