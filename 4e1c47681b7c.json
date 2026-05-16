@@ -17,13 +17,13 @@
       "mod_id": "BaseLib",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
-      "bundle_sha256": "2bb44eb52fe4a2032b0e6c374282d247cb00719cd5d97a8eeb2de68ff5df18fd"
+      "bundle_sha256": "a7f04877cc0b6a59da9a722b8155202a16ea23096c71cdfd74261bc9d34fb0e2"
     },
     {
       "name": "BetterSpire2 Lite",
-      "version": "v1.82.2",
+      "version": "v1.82.3",
       "source": null,
-      "hash": "20e65aaaeccf9ed124275fada02f61dec0575cae8e672b24dd17eb375eab7839",
+      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
       "files": [
         "BetterSpire2Lite\\BetterSpire2Lite.dll",
         "BetterSpire2Lite\\BetterSpire2Lite.json",
@@ -46,8 +46,8 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.2.zip",
-      "bundle_sha256": "1c4e5c5ee78faaf92ce56fd680d191cac6dced6f1c869899d5746af6c9a49086"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3.zip",
+      "bundle_sha256": "7cbff222377adff66e6070a0e98f435fa14ceef99e5439d4861b7988c72bd566"
     },
     {
       "name": "Burning Mod",
@@ -63,7 +63,7 @@
       "mod_id": "BurningMod",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Burning_Mod_v0.2.0.zip",
-      "bundle_sha256": "080106ef1b0e9bad03987920abd0a214707694416dbb81e9e8c7a0f8ae609ef3"
+      "bundle_sha256": "a894abdd902b38e8379767fb876a76ee13873ff72fcfcf5bc011a3aa20bacc7c"
     },
     {
       "name": "Dynamic Card Rewards",
@@ -79,7 +79,7 @@
       "mod_id": "DynamicCardRewards",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.03.zip",
-      "bundle_sha256": "f78030fca895957a4df596062c1a9e15bc19c252b28ed23795cdf48ff5d949de"
+      "bundle_sha256": "f834d8f0ec090ed556ba24b470cfb8e7fd0f4e196e77c7fa460b4df2fa7a8eea"
     },
     {
       "name": "LegacySpire",
@@ -95,7 +95,7 @@
       "mod_id": "LegacySpire",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.5.zip",
-      "bundle_sha256": "65665f54e9fb6a4a5827dc6d091a4d075a0ca6f834dfae57fe94f188df3b7b84"
+      "bundle_sha256": "2de18548668ccdd7b8295f1addd39f3d7fc98dda839276b98f66de354b9e940a"
     },
     {
       "name": "The Cursed",
@@ -111,7 +111,7 @@
       "mod_id": "TheCursedMod",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.7.zip",
-      "bundle_sha256": "7b2f1dc2c7b5c2f2de685a832edcbbb223abfaf709e4575e065834a224ee3463"
+      "bundle_sha256": "931c85aeb2f0199d81d52b9f986baf1047441a0ac35745b5a4b76b9a2f40a49c"
     },
     {
       "name": "Unified Save Path",
@@ -127,7 +127,7 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "e094d7e43cc4d7b09d24b92a2e1b618cc3a89b35ca1a9eb27ed5001b939437b5"
+      "bundle_sha256": "5685946e55f5902d628792810e75ded3ed67330984b6e61905fcbc155685855a"
     },
     {
       "name": "皮皮统计: Skada",
@@ -143,7 +143,7 @@
       "mod_id": "DamageMeter",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/______Skada_v1.14.4.zip",
-      "bundle_sha256": "68141d8433c9ea9095825185363f38f32247fb629d011d8effd2d4793ad8937d"
+      "bundle_sha256": "a44535ff9cf76e3143e0ddf2c91ca73ef6ad2f409402ddfd1f2f77ca86c91d68"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -159,10 +159,10 @@
       "mod_id": "ModConfig",
       "enabled": true,
       "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/______ModConfig_v0.2.3.zip",
-      "bundle_sha256": "e3275d1755990c588c75bc66031dda1dc2ad6125a93a4c95b39ee9dcaa44f2f8"
+      "bundle_sha256": "c228dbcd1d259d4a185aa4875ac61df220e87d3c5014cbdf1222f09d067f140e"
     }
   ],
   "created_at": "2026-05-13T13:19:34.791273400Z",
-  "updated_at": "2026-05-15T23:38:34.583435900Z",
+  "updated_at": "2026-05-16T11:42:02.791826800Z",
   "public": false
 }
