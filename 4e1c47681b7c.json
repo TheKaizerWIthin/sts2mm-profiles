@@ -5,7 +5,7 @@
   "mods": [
     {
       "name": "BaseLib",
-      "version": "v3.1.8",
+      "version": "v3.1.9",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
       "files": [
@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_fd529d9a.zip",
-      "bundle_sha256": "fd529d9a6580cccd74ede1bd0032ae5921b20e3a88c23bf2c8e40f51f3ba59ac"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.9_65b1fbc6.zip",
+      "bundle_sha256": "65b1fbc60c775d39e00bead625fb86b7b4af0627e2b2e64c2ee7c944ed25d701"
     },
     {
       "name": "BetterSpire2 Lite",
@@ -46,8 +46,8 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_f46d407f.zip",
-      "bundle_sha256": "f46d407fc1715ce04951c7226c39a62c05d9c5a0ea9d3bde5b8b1a9f49adb138"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_b6e8288c.zip",
+      "bundle_sha256": "b6e8288c2af6a1280a2f0de67d6c8d6ad2b1a00a4588276bc8128a17bddca40a"
     },
     {
       "name": "Burning Mod",
@@ -62,8 +62,8 @@
       "folder_name": "BurningMod",
       "mod_id": "BurningMod",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Burning_Mod_v0.2.0_515b7d72.zip",
-      "bundle_sha256": "515b7d72635ef313894c9c76890c5c7f1ee211b925a773a9fab6f46cac093af5"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Burning_Mod_v0.2.0_53b09e7c.zip",
+      "bundle_sha256": "53b09e7ca857cc0fb6a0298f7ca56122dff6eff4a94bc5637b9c61356f50b3c7"
     },
     {
       "name": "Dynamic Card Rewards",
@@ -78,8 +78,8 @@
       "folder_name": "DynamicCardRewards",
       "mod_id": "DynamicCardRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.03_553dfb82.zip",
-      "bundle_sha256": "553dfb822c25ddd466b7c1258ff9ab03ce364ba4cdff63d837d9f2b5c7e5da9f"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.03_bde14d79.zip",
+      "bundle_sha256": "bde14d79697e45000b6745edd7ec8cbf5c3ad89a5d5603b8d8a6c3fba3f29c6d"
     },
     {
       "name": "LegacySpire",
@@ -94,8 +94,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.5_bab3c330.zip",
-      "bundle_sha256": "bab3c330022fa82d2685179ecd505fc30c0ae07fde2d7e4183c5fe1650c1c563"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.5_f70a71e9.zip",
+      "bundle_sha256": "f70a71e9483b771e29c87eaea13143e6ecfd068426c705c5a8fa3ba8947e20b3"
     },
     {
       "name": "ModListSorter",
@@ -109,8 +109,8 @@
       "folder_name": "ModListSorter",
       "mod_id": "ModListSorter",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_5d69b152.zip",
-      "bundle_sha256": "5d69b152c3f76b22ceb76f5d499a4f2286da5e0d3eaf0827560a0d71e8b576a2"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_0f129821.zip",
+      "bundle_sha256": "0f1298213f5e9bc85263b936cee4ff82685298b4262fdd7c88a68d4e73d19663"
     },
     {
       "name": "Never Encounter Door Maker",
@@ -124,8 +124,8 @@
       "folder_name": "NeverEncounterDoorMaker",
       "mod_id": "NeverEncounterDoorMaker",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Never_Encounter_Door_Maker_v1.0.0.1_aaa858f8.zip",
-      "bundle_sha256": "aaa858f89dc227eaca5e86f61a14cfb4b3390cb53fbdc535fb4c7cdeaa8534e6"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Never_Encounter_Door_Maker_v1.0.0.1_dbf1a160.zip",
+      "bundle_sha256": "dbf1a1608cf785adb7fd2029173ba950516c6a5d6951aaccaf867ac0ed2991ac"
     },
     {
       "name": "The Cursed",
@@ -140,8 +140,8 @@
       "folder_name": "TheCursedMod",
       "mod_id": "TheCursedMod",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_4b1dec39.zip",
-      "bundle_sha256": "4b1dec3912faa3e27c86d93935a1493c24a0833bd3b2ce96e8fb4fa9c0afa972"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_d9018e4e.zip",
+      "bundle_sha256": "d9018e4e2f96df9219c1745253614b768fd17bae0e064af480dd4eb604c1c1a0"
     },
     {
       "name": "Unified Save Path",
@@ -156,8 +156,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_5bb3599a.zip",
-      "bundle_sha256": "5bb3599a6816245eac9fc3f4e954f815a0d903aa06be32e9a4b4eb8158c7045b"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_dc4ed3a1.zip",
+      "bundle_sha256": "dc4ed3a1ea3f2c15dd5b02243dced237410061e410399e389b4c39a89475577c"
     },
     {
       "name": "皮皮统计: Skada",
@@ -172,8 +172,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_5c9cdd19.zip",
-      "bundle_sha256": "5c9cdd1909c55e4a35e0cbc886b4e820ab87b24e3fd3e70274ce09d89d67b35e"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_d8584c57.zip",
+      "bundle_sha256": "d8584c57c9cdca97a60791047cd348e1e7257083f2d26016b3239a9efb05f37f"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -188,11 +188,11 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_6f108f7c.zip",
-      "bundle_sha256": "6f108f7c69cf0ea4ae2496621956250f52636487754d53035b05ba37e0dea024"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_5f0eaa9b.zip",
+      "bundle_sha256": "5f0eaa9b87df61936c881d0533f6d0908178b4d22285b10ff5a930201ac829cc"
     }
   ],
   "created_at": "2026-05-13T13:19:34.791273400Z",
-  "updated_at": "2026-05-28T21:10:43.803750700Z",
+  "updated_at": "2026-06-04T04:12:54.065858900Z",
   "public": false
 }
