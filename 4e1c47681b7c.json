@@ -5,7 +5,7 @@
   "mods": [
     {
       "name": "BaseLib",
-      "version": "v3.1.9",
+      "version": "v3.2.0",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
       "files": [
@@ -16,38 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.9_e8931386.zip",
-      "bundle_sha256": "e8931386c0fcbfcea9016e37ba6497eaec027d1af1f63d5604909c9c37e3d31e"
-    },
-    {
-      "name": "BetterSpire2 Lite",
-      "version": "v1.82.3",
-      "source": "nexus:slaythespire2/mods/2",
-      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
-      "files": [
-        "BetterSpire2Lite\\BetterSpire2Lite.dll",
-        "BetterSpire2Lite\\BetterSpire2Lite.json",
-        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
-      ],
-      "folder_name": "BetterSpire2Lite",
-      "mod_id": "BetterSpire2Lite",
-      "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_eae2450d.zip",
-      "bundle_sha256": "eae2450d3eb546489e6f475682c50662050d8bdec395ed96d30e5f92c5e3884a"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_46412a69.zip",
+      "bundle_sha256": "46412a69f503630762d41caf9512dda7b461b0367dc9ef2bb11dc0732ce5c74e"
     },
     {
       "name": "Dynamic Card Rewards",
@@ -62,8 +32,8 @@
       "folder_name": "DynamicCardRewards",
       "mod_id": "DynamicCardRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_147491e3.zip",
-      "bundle_sha256": "147491e316c388d7d920953e2ef94eaf210a07756f704c8c769e2beb030a3ecc"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_8e881bfb.zip",
+      "bundle_sha256": "8e881bfbbea10b0b05b2daa285a390c559b16327a598ebd97460bc364aa24542"
     },
     {
       "name": "LegacySpire",
@@ -78,8 +48,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_172f9ac4.zip",
-      "bundle_sha256": "172f9ac494c5fd5fe3f94603dfb18597f8507ccd695849f95b7ee080111f2ee0"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_a0e0490b.zip",
+      "bundle_sha256": "a0e0490b944a4134e0dc6448ab7a5c77765904e2785d2b67931744efa99a704d"
     },
     {
       "name": "ModListSorter",
@@ -93,8 +63,8 @@
       "folder_name": "ModListSorter",
       "mod_id": "ModListSorter",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_f5117911.zip",
-      "bundle_sha256": "f5117911a793c72508bbf4247f4239c71983105651f1b647dfd0ed0df1c6ec0f"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_5779a0bd.zip",
+      "bundle_sha256": "5779a0bd39bf3c68b18a47a7f02c38b9bef95a5c576cb7f593ce278c68c05024"
     },
     {
       "name": "Unified Save Path",
@@ -109,12 +79,12 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_eecce70a.zip",
-      "bundle_sha256": "eecce70a83c60c91cf92e879da5acaf3beb4cdb9b58ac4efd590e5e20e3656c3"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_e6f64e5d.zip",
+      "bundle_sha256": "e6f64e5dd02e6945a7ba5b10a043ac1e7faec9cffc4496bac3a615fba50da40a"
     },
     {
       "name": "皮皮统计: Skada",
-      "version": "1.14.4",
+      "version": "1.14.5",
       "source": "nexus:slaythespire2/mods/33",
       "hash": "53967b68ed6f5cf1cbe3f7ad21f3ae1127eb4eb23386a2b51feb490487f8fadd",
       "files": [
@@ -125,8 +95,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_aa3cbed8.zip",
-      "bundle_sha256": "aa3cbed80891dcabb0eed72d72592106302eaa13cb8f68fc40ee7da730d96821"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.5_37a4add1.zip",
+      "bundle_sha256": "37a4add168304736f2ed52a06748a97556a51083749d6d89f59e7149343132b0"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -141,11 +111,41 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_d631953d.zip",
-      "bundle_sha256": "d631953db63afea0834ff7959153c111fd7f7d14dcd7ba32a816a378300aaaf8"
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_ff707b0e.zip",
+      "bundle_sha256": "ff707b0eb48bb4e6f3bc42a85b6024b89f1d7281fd0ad9264bac5e149d84cff1"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.4",
+      "source": "nexus:slaythespire2/mods/2",
+      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheKaizerWIthin/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_19f9a1f9.zip",
+      "bundle_sha256": "19f9a1f906bd2ba894ccc60a9b470c1414923b80a385c734a417bea920855eec"
     }
   ],
   "created_at": "2026-05-13T13:19:34.791273400Z",
-  "updated_at": "2026-06-04T18:44:21.449837600Z",
+  "updated_at": "2026-06-06T19:45:34.354782300Z",
   "public": false
 }
